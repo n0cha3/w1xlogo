@@ -7,3 +7,6 @@ Usage:
 You can convert the bitmap using ImageMagick
 
     convert input.bmp -depth 2 output.gray
+
+# Example
+![img](example.png)
