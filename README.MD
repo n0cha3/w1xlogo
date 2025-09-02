@@ -2,7 +2,7 @@
 Usage: 
 
     1x-change [input bitmap] [output]
-        - bitmap must have a size of 268x18, have 2 BPP and be headerless.
+        - bitmap must have a size of 268x36, have 2 BPP and be headerless.
 
 You can convert the bitmap using ImageMagick
 
